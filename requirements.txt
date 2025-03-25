@@ -20,6 +20,7 @@ pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pyparsing==3.2.3
 PySocks==1.7.1
+python-dotenv==1.1.0
 requests==2.32.3
 requests-oauthlib==2.0.0
 rsa==4.9
